@@ -1,0 +1,29 @@
+C:\Dev\Juris Scrum\Core\Branches\v2.7.1\Professional Services\JurisUtilityBase\JurisUtilityBase\bin\Debug\JurisUtilityBase.exe.config
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Vendor Merge Util\JurisUtilityBase\bin\Debug\JPS - Vendor Merge.exe.config
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Vendor Merge Util\JurisUtilityBase\obj\Debug\JurisUtilityBase.csproj.ResolveComReference.cache
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Vendor Merge Util\JurisUtilityBase\bin\Debug\JPS - Vendor Merge.exe.manifest
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Vendor Merge Util\JurisUtilityBase\bin\Debug\JPS - Vendor Merge.application
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Vendor Merge Util\JurisUtilityBase\bin\Debug\JPS - Vendor Merge.exe
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Vendor Merge Util\JurisUtilityBase\bin\Debug\JPS - Vendor Merge.pdb
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Vendor Merge Util\JurisUtilityBase\bin\Debug\C1.C1Report.4.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Vendor Merge Util\JurisUtilityBase\bin\Debug\C1.Win.C1Input.4.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Vendor Merge Util\JurisUtilityBase\bin\Debug\C1.Win.C1Report.4.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Vendor Merge Util\JurisUtilityBase\bin\Debug\Gizmox.Extensions.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Vendor Merge Util\JurisUtilityBase\bin\Debug\Ionic.Zlib.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Vendor Merge Util\JurisUtilityBase\bin\Debug\JurisAuthenticator.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Vendor Merge Util\JurisUtilityBase\bin\Debug\JurisDBO21.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Vendor Merge Util\JurisUtilityBase\bin\Debug\JurisIDef21.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Vendor Merge Util\JurisUtilityBase\bin\Debug\JurisStr21.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Vendor Merge Util\JurisUtilityBase\bin\Debug\JurisStr221.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Vendor Merge Util\JurisUtilityBase\bin\Debug\JurisSVR21.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Vendor Merge Util\JurisUtilityBase\obj\Debug\JurisUtilityBase.csprojResolveAssemblyReference.cache
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Vendor Merge Util\JurisUtilityBase\obj\Debug\JurisUtilityBase.PrinterDialog.resources
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Vendor Merge Util\JurisUtilityBase\obj\Debug\JurisUtilityBase.ReportDisplay.resources
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Vendor Merge Util\JurisUtilityBase\obj\Debug\JurisUtilityBase.UtilityBaseMain.resources
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Vendor Merge Util\JurisUtilityBase\obj\Debug\JurisUtilityBase.Properties.Resources.resources
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Vendor Merge Util\JurisUtilityBase\obj\Debug\JurisUtilityBase.SplashScreen.resources
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Vendor Merge Util\JurisUtilityBase\obj\Debug\JurisUtilityBase.csproj.GenerateResource.Cache
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Vendor Merge Util\JurisUtilityBase\obj\Debug\JPS - Vendor Merge.exe.manifest
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Vendor Merge Util\JurisUtilityBase\obj\Debug\JPS - Vendor Merge.application
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Vendor Merge Util\JurisUtilityBase\obj\Debug\JPS - Vendor Merge.exe
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\Juris Vendor Merge Util\JurisUtilityBase\obj\Debug\JPS - Vendor Merge.pdb
